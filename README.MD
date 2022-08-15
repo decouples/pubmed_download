@@ -2,6 +2,12 @@
 
 [github](https://github.com/decouples/pubmed_download)
 
+- install
+
+```shell
+pip install pubmed_download
+```
+
 example:
 ```python
 # -*- encoding:utf-8 -*-
